@@ -1,0 +1,69 @@
+[
+    {
+        "id": "gtnE1",
+        "title": "Luck... or Skill?",
+        "description": "*Guessed the number in 1 try on easy mode*"
+    },
+    {
+        "id": "gtnM1",
+        "title": "Crazy Luck... or Crazy Skill?",
+        "description": "*Guessed the number in 1 try on medium mode*"
+    },
+    {
+        "id": "gtnH1",
+        "title": "I'm a Genius!",
+        "description": "*Guessed the number in 1 try on hard mode*"
+    },
+    {
+        "id": "gtnPlayed",
+        "title": "Human Crystal Ball",
+        "description": "*Played Guess the Number for the first time*"
+    },
+    {
+        "id": "gtnPlayed10",
+        "title": "I'm a Wizard!",
+        "description": "*Played Guess the Number 10 times*"
+    },
+    {
+        "id": "gtnPlayed100",
+        "title": "All About the Numbers",
+        "description": "*Played Guess the Number 100 times*"
+    },
+    {
+        "id": "jyneUsed100",
+        "title": "I Require Assistance",
+        "description": "*Used J.Y.N.E's commands 100 times*"
+    }, {
+        "id": "hangmanPlayed",
+        "title": "Don't Leave Me Hanging",
+        "description": "*Played Hangman for the first time*"
+    }, {
+        "id": "hangmanPlayed10",
+        "title": "Can't Stop Swinging",
+        "description": "*Played Hangman 10 times*"
+    }, {
+        "id": "hangmanPlayed100",
+        "title": "Word Genius",
+        "description": "*Played Hangman 100 times*"
+    }, {
+        "id": "hangmanMulti",
+        "title": "Extra Brainpower",
+        "description": "*Played Hangman with another member in a server*"
+    }, {
+        "id": "blackjackWon1",
+        "title": "Smart Gambler",
+        "description": "*Won in Blackjack for the first time*"
+    }, {
+        "id": "blackjackWon10",
+        "title": "Can't Stop, Won't Stop",
+        "description": "*Won in Blackjack 10 times*"
+    }, {
+        "id": "blackjackWon100",
+        "title": "I May Have an Addiction...",
+        "description": "*Won in Blackjack 100 times*"
+    }, {
+        "id": "blackjackBigBet",
+        "title": "Nothing To Lose...",
+        "description": "*Bet 100 or more Elysium and won a game of Blackjack*"
+    }
+]
