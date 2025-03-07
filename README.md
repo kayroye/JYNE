@@ -2,7 +2,7 @@
 
 <img src="docs/monitor.png" alt="JYNE Bot" width="400"/>
 
-# JYNE
+# J.Y.N.E
 ### Just Your Neighbourhood Executable
 
 A versatile Discord bot built with Discord.js that offers a wide range of features including music playback, currency system, games, moderation tools, and AI-powered conversations. JYNE was designed to be your all-in-one Discord companion.
